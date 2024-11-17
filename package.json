@@ -1,0 +1,18 @@
+{
+  "name": "spako59",
+  "version": "1.0.0",
+  "description": "echo \"# spako59\" >> README.md git init git add README.md git commit -m \"premier commit\" git branch -M main git remote add origin https://github.com/spako59/spako59.git git push -u origin main",
+  "main": "index.js",
+  "scripts": {
+    "build": "next build",
+    "start": "next start",
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^15.0.3"
+  }
+}
