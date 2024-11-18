@@ -1,0 +1,30 @@
+[build]
+  publish = "dist" # Chemin du répertoire généré après compilation
+
+[[redirects]]
+  from = "/old-page"
+  to = "/new-page"
+  status = 301
+
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+[[redirects]]
+  from = "/force-page"
+  to = "/final-destination"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/"
+  to = "/fr/"
+  conditions = { Language = ["fr"] }
+[[redirects]]
+  from = "/"
+  to = "/us/"
+  conditions = { Country = ["US"] }
