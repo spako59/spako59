@@ -1,8 +1,0 @@
-export default function About() {
-  return (
-    <div>
-      <h1>À propos</h1>
-      <p>Ceci est une page à propos dans Next.js.</p>
-    </div>
-  );
-}
