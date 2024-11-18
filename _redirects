@@ -1,0 +1,6 @@
+/* /index.html 200
+[chemin-source] [chemin-destination] [statut HTTP]
+/old-page   /new-page   301
+/profile    /dashboard  302
+/api/*      /.netlify/functions/:splat 200
+/*          /index.html 200
