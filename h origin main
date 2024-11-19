@@ -1,0 +1,21 @@
+[33m0a9c784[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Added audit report and updated yarn.lock
+[33m7ad97b5[m[33m ([m[1;33mtag: [m[1;33mv1.0.1[m[33m)[m Updated dependencies to latest versions
+[33m54bd368[m Update package.json and yarn.lock for dependency management chore: update dependencies in package.json
+[33mac7b2d2[m chore: remove package-lock.json for Yarn compatibility
+[33mb31e7bd[m Update build artifacts and dependencies
+[33m2b26b1e[m Fix build errors and update configuration
+[33m4e9b7b4[m feat: Add launch.json for debugging configuration
+[33mf4bdd88[m feat: Update and optimize Next.js build files
+[33mb91a2b6[m modified
+[33m6201eb1[m modificatoin next
+[33mabff706[m modificatoin next/trace
+[33m8e7e280[m modificagtion pages
+[33m4f427b7[m modificatoin _redirects# noreply
+[33m80df50c[m netlify modification
+[33m8943062[m modification de _redirects
+[33m38b1515[m build: update npm scripts for improved development workflow
+[33mc248a6a[m chore: add gitignore and remove node_modules
+[33mf93ae7d[m Merge pull request #2 from spako59/spako59io-patch-1
+[33mcdea159[m Create ls package.json
+[33mcc3ff2d[m Create LICENSE.md
+[33m2ca9688[m Create README.md
