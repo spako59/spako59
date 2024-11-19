@@ -4,7 +4,7 @@
   "description": "Un projet pour spako59",
   "main": "index.js",
   "scripts": {
-    "build": "your-build-command",
+    "build": "your-actual-build-command",
     "start": "next start",
     "dev": "next dev",
     "test": "your-test-command"
