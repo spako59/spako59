@@ -4,7 +4,7 @@
   "description": "Un projet pour spako59",
   "main": "index.js",
   "scripts": {
-    "build": "your-actual-build-command",
+    "build": "webpack",
     "start": "next start",
     "dev": "next dev",
     "test": "your-test-command"
@@ -16,6 +16,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "next": "^15.0.3"
+    "next": "^15.0.3",
+    "package-name": "^0.1.0"
   }
 }
