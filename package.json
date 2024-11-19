@@ -4,10 +4,10 @@
   "description": "Un projet pour spako59",
   "main": "index.js",
   "scripts": {
-    "build": "next build",
+    "build": "your-build-command",
     "start": "next start",
     "dev": "next dev",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "your-test-command"
   },
   "engines": {
     "node": "20.x"
